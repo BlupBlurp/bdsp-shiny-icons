@@ -102,11 +102,7 @@ The tool then recolors the sprite to match the shiny color palette.
 
 ## Usage
 
-These icons are **free to use** for personal and community projects.
-
-No attribution required, though it's always appreciated!
-
-Attribution is required, so please credit the contributors in your projects.
+These icons are **free to use** for personal and community projects. Attribution is required, so please credit the contributors in your projects.
 
 ## Credits
 
@@ -120,3 +116,4 @@ This project was made possible through the collaborative efforts of:
 - **puningtilde**
 - **profblack**
 - **dahnidandypants**
+
