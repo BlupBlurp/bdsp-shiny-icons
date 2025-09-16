@@ -55,8 +55,8 @@ Contains the original BDSP icons, textures, and Pokémon Home icons used as refe
 ![Shiny Shadow Mewtwo without star](shiny_icons/Generation1_0001-0151/pm0150_05_21.png)
 ![Shiny Magikarp without star](shiny_icons/Generation1_0001-0151/pm0129_00_11_28.png)
 ![Shiny Magikarp without star](shiny_icons/Generation1_0001-0151/pm0129_00_11_14.png)
-![Shiny Pikachu without star](shiny_icons/Generation2_0152-251/pm0202_00_01.png)
-![Shiny Gengar without star](shiny_icons/Generation2_0152-251/pm0202_00_11.png)
+![Shiny Pikachu without star](shiny_icons/Generation2_0152-0251/pm0202_00_01.png)
+![Shiny Gengar without star](shiny_icons/Generation2_0152-0251/pm0202_00_11.png)
 ![Shiny Ghost-Marowak without star](shiny_icons/Generation1_0001-0151/pm0105_02_21.png)
 ![Shiny Bug-Type Egg without star](shiny_icons/Eggs/pm0000_00_21_06.png)
 
