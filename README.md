@@ -53,6 +53,12 @@ Contains the original BDSP icons, textures, and Pokémon Home icons used as refe
 ![Shiny Gengar without star](shiny_icons/Generation1_0001-0151/pm0094_01_01.png)
 ![Shiny Moltres without star](shiny_icons/Generation1_0001-0151/pm0146_01_21.png)
 ![Shiny Magikarp without star](shiny_icons/Generation1_0001-0151/pm0129_00_11_28.png)
+![Shiny Charizard without star](shiny_icons/Generation1_0001-0151/pm0006_00_01.png)
+![Shiny Necrozma without star](shiny_icons/Generation7_0722-0809/pm0800_00_21.png)
+![Shiny Pikachu without star](shiny_icons/Generation1_0001-0151/pm0025_03_11.png)
+![Shiny Gengar without star](shiny_icons/Generation1_0001-0151/pm0094_01_01.png)
+![Shiny Moltres without star](shiny_icons/Generation1_0001-0151/pm0146_01_21.png)
+![Shiny Magikarp without star](shiny_icons/Generation1_0001-0151/pm0129_00_11_28.png)
 
 ### With Shiny Star (`star_templates/examples/`)
 
