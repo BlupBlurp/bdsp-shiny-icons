@@ -33,9 +33,11 @@ Contains the main collection of shiny Pokémon icons **without the shiny indicat
 Contains shiny indicator star templates that can be applied to any icon using [ImageMagick](https://imagemagick.org/) commands. Includes multiple star designs:
 
 ![Star template 1](star_templates/star1.png)
-![Star template 1.2](star_templates/star1_2.png)
 ![Star template 2](star_templates/star2.png)
 ![Star template 3](star_templates/star3.png)
+![Star template 4](star_templates/star4.png)
+![Star template 5](star_templates/star5.png)
+![Star template 5](star_templates/star6.png)
 
 ### `reference_textures/`
 
@@ -46,6 +48,7 @@ Contains the original BDSP icons, textures, and Pokémon Home icons used as refe
 ### Without Shiny Star (`shiny_icons/`)
 
 ![Shiny Charizard without star](shiny_icons/Generation1_0001-0151/pm0006_00_01.png)
+![Shiny Necrozma without star](shiny_icons/Generation7_0722-0809/pm0800_00_21.png)
 ![Shiny Pikachu without star](shiny_icons/Generation1_0001-0151/pm0025_03_11.png)
 ![Shiny Gengar without star](shiny_icons/Generation1_0001-0151/pm0094_01_01.png)
 ![Shiny Moltres without star](shiny_icons/Generation1_0001-0151/pm0146_01_21.png)
@@ -54,9 +57,11 @@ Contains the original BDSP icons, textures, and Pokémon Home icons used as refe
 ### With Shiny Star (`star_templates/examples/`)
 
 ![Politoed with star template 1](star_templates/examples/pm0186_00_01_star1.png)
-![Politoed with star template 1.2](star_templates/examples/pm0186_00_01_star1_2.png)
 ![Politoed with star template 2](star_templates/examples/pm0186_00_01_star2.png)
 ![Politoed with star template 3](star_templates/examples/pm0186_00_01_star3.png)
+![Politoed with star template 4](star_templates/examples/pm0186_00_01_star4.png)
+![Politoed with star template 5](star_templates/examples/pm0186_00_01_star5.png)
+![Politoed with star template 6](star_templates/examples/pm0186_00_01_star6.png)
 
 ## Adding Shiny Stars
 
